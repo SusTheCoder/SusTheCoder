@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @SusTheCoder
-- 👀 I’m interested in coding and data science.
-- 🌱 I’m currently learning Python, SQL and Data Science practices.
-- 💞️ I’m looking to collaborate on GitHub.
-- 📫 Reach me here!
+I try to code and stuff.
 
 <!---
 SusTheCoder/SusTheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
